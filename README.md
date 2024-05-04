@@ -15,7 +15,7 @@ WikiCLI is a command-line tool for searching and interacting with Wikipedia arti
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/WikiCLI.git
+    git clone https://github.com/602dhruviii/WikiCLI.git
     ```
 
 2. Navigate to the project directory:
